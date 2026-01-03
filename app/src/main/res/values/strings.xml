@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ramu</string>
+    <string name="accessibility_service_description">Allows Ramu to automatically send messages on WhatsApp. This service respects your privacy and only works on your command.</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306098497970",
+    "project_id": "ramu-17c07",
+    "storage_bucket": "ramu-17c07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306098497970:android:6e3b80f143a31a0c259cab",
+        "android_client_info": {
+          "package_name": "com.example.ramu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5oUQPUN4DE2WjMQC7jzHESRyHHWYY68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
